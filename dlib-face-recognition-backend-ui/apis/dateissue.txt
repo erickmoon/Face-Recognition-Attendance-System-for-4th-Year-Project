@@ -1,0 +1,6 @@
+Response1: {"id":"15","id_no":"SCT212-069/2018","class_id":"4","name":"SHIRLEEN RUTTOH","student_photo":"SCT212-069-2018.JPG","date_created":"2022-11-27 13:23:09"}
+index.php?page=attendance_record:304 Response2: {"id":"129","attendance_id":"21","student_id":"16","type":"0","date_created":"2022-11-28 02:18:23","class_subject_id":"5"}
+index.php?page=attendance_record:303 Response1: {"id":"16","id_no":"SCT212-0562/2020","class_id":"4","name":"JAMES MWANGI MACHARIA","student_photo":"SCT212-0562-2020.jpg","date_created":"2022-11-27 21:41:14"}
+index.php?page=attendance_record:304 Response2: {"id":"131","attendance_id":"21","student_id":"15","type":"1","date_created":"2022-11-28 02:18:23","class_subject_id":"5"}
+index.php?page=attendance_record:303 Response1: {"id":"17","id_no":"SCT212-0562/2018","class_id":"4","name":"ERICK IVUTO MUTUNGA","student_photo":"SCT212-0562-2018.JPG","date_created":"2022-11-27 21:47:37"}
+index.php?page=attendance_record:304 Response2: {"id":"132","attendance_id":"21","student_id":"17","type":"1","date_created":"2022-11-28 02:18:31","class_subject_id":"5"}

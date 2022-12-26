@@ -1,0 +1,2 @@
+Contents
+  class_id='4' , faculty_id='2' , subject_id='4' 
